@@ -5,8 +5,6 @@
 ---
 Full-Stack | Programador 💻.
 
-Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de Software na Rocketseat. 👨‍💻
-
 ### Sobre mim
 - 💻 Trabalhando com React, NodeJS, PostgreSQL e Serverless Architecture ( Lambda Functions λ )
 - 📚 Estudando a Node, React, PostgresSQL 
