@@ -1,16 +1,14 @@
-### Hi there 👋
+<!-- <img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/software-developer-2.png"> -->
 
-<!--
-**felipealpino/felipealpino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello world, I'm Felipe :octocat:
+---
+Full-Stack | Programador 💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de Software na Rocketseat. 👨‍💻
+
+### Sobre mim
+- 💻 Trabalhando com React, NodeJS, PostgreSQL e Serverless Architecture ( Lambda Functions λ )
+- 📚 Estudando a Node, React, PostgresSQL 
+- 🏭 Atualemente Desenvolvedor na Alicerce Educação
+
