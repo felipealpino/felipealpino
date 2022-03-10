@@ -10,3 +10,4 @@ Full-Stack | Programador 💻.
 - 📚 Estudando a Node, React, PostgresSQL 
 - 🏭 Atualemente Desenvolvedor na Alicerce Educação
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
