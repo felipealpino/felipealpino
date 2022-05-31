@@ -5,7 +5,7 @@
 ---
 Full-Stack | Programador 💻.
 
-### Sobre mim
+### About me
 - 💻 Trabalhando com React, NodeJS, PostgreSQL e Serverless Architecture ( Lambda Functions λ )
 - 📚 Estudando a Node, React, PostgresSQL 
 - 🏭 Atualemente Desenvolvedor na Alicerce Educação
