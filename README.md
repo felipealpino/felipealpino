@@ -3,7 +3,7 @@
 
 ### Hello world, I'm Felipe :octocat:
 ---
-Full-Stack | Programador 💻.
+Full-Stack Developer 💻.
 
 ### About me
 - 💻 Working with React, NodeJS, PostgreSQL e Serverless Architecture ( Lambda Functions λ )
