@@ -9,5 +9,3 @@ Full-Stack Developer 💻.
 - 💻 Working with React, NodeJS, PostgreSQL e Serverless Architecture ( Lambda Functions λ )
 - 📚 Studying Node, React, PostgresSQL 
 - 🏭 Currently working as a Software Developer at Alicerce Educação
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
