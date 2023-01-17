@@ -3,9 +3,10 @@
 
 ### Hello world, I'm Felipe :octocat:
 ---
-Full-Stack Developer 💻.
+Full-Stack Developer 💻. <br/>
+Typescript lover ❤️
 
 ### About me
-- 💻 Working with ReactTS, NodeTS, PostgreSQL e Serverless Architecture ( Lambda Functions λ )
+- 💻 Working with React.js, Next.js, Node.js, Typescript, PostgreSQL e Serverless Architecture ( Lambda Functions λ )
 - 📚 Studying TDD, Clean Archtecture
-- 🏭 Currently working as a Software Developer at Alicerce Educação
+- 🏭 Currently working as a Software Developer at Alicerce Lab
